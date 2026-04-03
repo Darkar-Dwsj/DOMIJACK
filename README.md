@@ -26,4 +26,4 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/DOMIJACK.git](https://github.com/TU_USUARIO/DOMIJACK.git)
+   git clone 'https://github.com/Darkar-Dwsj/DOMIJACK.git'
